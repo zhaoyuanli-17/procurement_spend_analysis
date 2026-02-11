@@ -69,6 +69,9 @@ Designed for senior stakeholders:
 - Spend trends by fiscal year
 - ERP spend distribution
 - Top vendors by spend
+### 1️⃣ Executive Overview
+![Executive Overview](powerbi/screenshots/page1_executive.jpg)
+
 
 ---
 
@@ -77,6 +80,8 @@ Focused on procurement analysis:
 - High-impact categories by spend
 - Supplier concentration within categories
 - Department-level spend visibility
+### 2️⃣ Vendor & Category Analysis
+![Vendor & Category](powerbi/screenshots/page2_vendor_category.jpg)
 
 ---
 
@@ -87,6 +92,8 @@ Explicitly addresses analytical limitations:
 - Clear separation between *missing*, *zero*, and *not applicable* values
 
 > Governance KPIs intentionally return **BLANK** where analysis is not applicable, preventing misinterpretation of missing data as zero values.
+### 3️⃣ Data Governance & Quality View
+![Data Governance](powerbi/screenshots/page3_governance.jpg)
 
 ---
 
