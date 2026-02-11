@@ -1,0 +1,40 @@
+# raw data (too large for GitHub)
+data/raw/
+
+# keep folder structure
+!data/raw/.gitkeep
+
+# kaggle credentials
+.kaggle/
+kaggle.json
+
+# python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+# Raw data (large)
+data/raw/
+*.csv
+!data/processed/*sample*.csv
+!data/processed/*bi_sample*.csv
+
+
+# Power BI binary files (large)
+*.pbix
+
+# OS / temp
+.DS_Store
+Thumbs.db
+# processed data
+data/processed/*.csv
+!data/processed/*_50k.csv
+
+# Power BI binaries
+*.pbix
+
+# screenshots - keep only compressed versions
+powerbi/screenshots/*.png
